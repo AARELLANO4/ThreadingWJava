@@ -1,14 +1,4 @@
-/**********************************************
- * Workshop 8 
- * Course: JAC444 - WINTER 2020
- * Last Name: Arellano
- * First Name: Alexis
- * ID: 155816184
- * Section: NDD
- * This assignment represents my own work in accordance with Seneca Academic Policy.
- *  - AA
- * Date: Tuesday November 24/2020
- * **********************************************/
+/* Alexis Arellano Tuesday November 24/2020 */
 
 package task1;
 
